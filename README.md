@@ -10,6 +10,9 @@
  
 ## Contact
 
+<a href="https://github.com/andrelacomski" target="_blank">
+  <img src="https://user-images.githubusercontent.com/26236021/135333485-0b1dfd8c-43d0-4de6-9065-850956f72844.png" alt="Email" height="50px" width="50px" />
+</a>
 <a href="https://www.linkedin.com/in/andrelacomski/" target="_blank">
   <img src="https://user-images.githubusercontent.com/58230684/134695429-bcfe68f7-c18a-435d-8b43-20ca76ff3591.png" alt="Linkedin" height="50px" width="50px" />
 </a>
